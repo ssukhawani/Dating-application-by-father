@@ -52,13 +52,12 @@ nav img{
     margin: 10px auto;
     /* max-width: 90%; */
     text-align: center;
-
     width: 100%;
 }
 
 .container-2{
     /* background-color: mediumblue; */
-    margin: 20px auto;
+    margin: 20px 20px;
     padding: 10px auto;
     /* max-width: 500px; */
 
@@ -199,6 +198,7 @@ form label{
 
     .container-2{
         margin-bottom: 40px;
+
     }
 
     h1{
