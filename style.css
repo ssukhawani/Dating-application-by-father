@@ -187,6 +187,8 @@ form label{
 
     .flex-container{
          margin: 100px auto;
+         width: 85%;
+         
     }
     .con1 input{
         width: 300px;
